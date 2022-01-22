@@ -99,8 +99,6 @@
      return (b1.compare(b2) != 0);
  }
 
-//You do > and >=
-
   int main(){
     string s = "12345";
     dbiguint b = new dbiguint(s);
